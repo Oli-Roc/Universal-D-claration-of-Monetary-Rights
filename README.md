@@ -76,15 +76,6 @@ https://en.wikipedia.org/wiki/Economic_justice
 
 [https://www.the-blockchain.com/2018/03/07/money-by-design-presents-at-world-bank-hq- ](https://www.the-blockchain.com/2018/03/07/money-by-design-presents-at-world-bank-hq-readies-for-ico/)[readies-for-ico/](https://www.the-blockchain.com/2018/03/07/money-by-design-presents-at-world-bank-hq-readies-for-ico/)
 
-http://www.midilibre.fr/2018/02/13/numerique-money-by-design-cree-une-blockchain-pour-lesinstitutions,1627575.php
-
-https://www.lesechos.fr/idees-debats/cercle/cercle-182117-distribution-des-aides-en-afrique-la-blockchain-outil-anti-corruption-2171530.php
-
-https://www.lesechos.fr/idees-debats/cercle/cercle-180751-monetiser-les-actifs-une-alternative-a-la-dette-2163781.php
-
-https://theses.hal.science/tel-00921574/file/31711_ZAGAINOVA_-_2012_archivage.pdf
-
-https://ideas.repec.org/p/hal/wpaper/hal-02735761.html
 
 ## Contact
 
