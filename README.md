@@ -14,7 +14,7 @@ The Universal Declaration of Monetary Rights proposes a new framework for unders
 ### Key Contributions
 
 - **New definition of money**: The UDMR defines money as a right, not merely an economic instrument. It belongs to all individuals and should be created, managed, and utilized by those who have the greatest interest in its use, rather than solely by centralized institutions.
-- **Axiomatic framework**: The declaration introduces a set of ten axioms that serve as guiding principles for evaluating and implementing monetary and financial systems. These include Existence, Totality, Separability, Representation, Balance, Publicity, Non-Manipulation, Capacity, Operability, and Independence.
+- **Axiomatic framework**: The declaration introduces a set of ten axioms that serve as guiding principles for evaluating and implementing monetary and financial systems. These include Existence, Totality, Inseparability, Representation, Balance, Publicity, Non-Manipulation, Capacity, Operability, and Independence.
 - **Comparative performance analysis**: Our repository includes a comprehensive comparative performance analysis between central bank digital currencies (CBDCs) and cryptocurrencies. This analysis provides a detailed evaluation of each currency based on programming, network strength, system reliability, and other critical performance indicators.
 - **Alignment with Natural Law**: The UDMR aligns with principles of natural law, advocating for a decentralized monetary system that respects individual autonomy, privacy, and the right to participate in economic decision-making.
 
