@@ -68,9 +68,14 @@ Special thanks to the contributors and reviewers who have provided valuable insi
 
 ## Additional Resources
 
-- [Comparative Performance Analysis of Digital Currencies](https://github.com/Oli-Roc/UDMR/resources/Comparative_Performance_Analysis.pdf)
-- [Universal Declaration of Monetary Rights Executive Protocol](https://github.com/Oli-Roc/UDMR/resources/UDMR_Executive_Protocol.pdf)
-- [Understanding Social Choice Theory and Monetary Law](https://github.com/Oli-Roc/UDMR/resources/Social_Choice_Theory.pdf)
+[https://www.the-blockchain.com/2018/03/07/money-by-design-presents-at-world-bank-hq- ](https://www.the-blockchain.com/2018/03/07/money-by-design-presents-at-world-bank-hq-readies-for-ico/)[readies-for-ico/](https://www.the-blockchain.com/2018/03/07/money-by-design-presents-at-world-bank-hq-readies-for-ico/)
+https://www.petitesaffiches.fr/l-entreprise,077/voxcracy-la-startup-nicoise,11040.html
+https://www.20minutes.fr/elections/2472563-20190314-nice-start-up-voxcracy-propose-autre-
+https://www.lesechos.fr/idees-debats/cercle/cercle-182117-distribution-des-aides-en-afrique-la-blockchain-outil-anti-corruption-2171530.php
+https://www.lesechos.fr/idees-debats/cercle/cercle-180751-monetiser-les-actifs-une-alternative-a-la-dette-2163781.php
+http://www.midilibre.fr/2018/02/13/numerique-money-by-design-cree-une-blockchain-pour-lesinstitutions,1627575.php
+https://theses.hal.science/tel-00921574/file/31711_ZAGAINOVA_-_2012_archivage.pdf
+https://ideas.repec.org/p/hal/wpaper/hal-02735761.html
 
 ## Contact
 
