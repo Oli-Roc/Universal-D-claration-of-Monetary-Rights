@@ -13,16 +13,16 @@ The Universal Declaration of Monetary Rights proposes a new framework for unders
 
 ### Key Contributions
 
-- **New Definition of Money**: The UDMR defines money as a right, not merely an economic instrument. It belongs to all individuals and should be created, managed, and utilized by those who have the greatest interest in its use, rather than solely by centralized institutions.
-- **Axiomatic Framework**: The declaration introduces a set of ten axioms that serve as guiding principles for evaluating and implementing monetary and financial systems. These include Existence, Totality, Separability, Representation, Balance, Publicity, Non-Manipulation, Capacity, Operability, and Independence.
-- **Comparative Performance Analysis**: Our repository includes a comprehensive comparative performance analysis between central bank digital currencies (CBDCs) and cryptocurrencies. This analysis provides a detailed evaluation of each currency based on programming, network strength, system reliability, and other critical performance indicators.
+- **New definition of money**: The UDMR defines money as a right, not merely an economic instrument. It belongs to all individuals and should be created, managed, and utilized by those who have the greatest interest in its use, rather than solely by centralized institutions.
+- **Axiomatic framework**: The declaration introduces a set of ten axioms that serve as guiding principles for evaluating and implementing monetary and financial systems. These include Existence, Totality, Separability, Representation, Balance, Publicity, Non-Manipulation, Capacity, Operability, and Independence.
+- **Comparative performance analysis**: Our repository includes a comprehensive comparative performance analysis between central bank digital currencies (CBDCs) and cryptocurrencies. This analysis provides a detailed evaluation of each currency based on programming, network strength, system reliability, and other critical performance indicators.
 - **Alignment with Natural Law**: The UDMR aligns with principles of natural law, advocating for a decentralized monetary system that respects individual autonomy, privacy, and the right to participate in economic decision-making.
 
 ## Why a Universal Declaration of Monetary Rights?
 
-1. **Addressing Historical Gaps**: Unlike existing declarations that cover human rights or economic rights, there is no universal framework for monetary rights. The UDMR aims to fill this gap by proposing a comprehensive set of rights that apply universally to all forms of money.
-2. **Responding to Financial Revolution**: The rise of digital currencies and decentralized financial systems challenges traditional monetary governance. The UDMR provides a framework for integrating these new systems with established financial norms, promoting a balanced and inclusive financial landscape.
-3. **Promoting Human-Centered Economics**: By focusing on the human function of payment and economic participation, the UDMR shifts the narrative from money as a tool of control to money as a medium of expression and a facilitator of social justice and sustainability.
+1. **Addressing historical gaps**: Unlike existing declarations that cover human rights or economic rights, there is no universal framework for monetary rights. The UDMR aims to fill this gap by proposing a comprehensive set of rights that apply universally to all forms of money.
+2. **Responding to financial revolution**: The rise of digital currencies and decentralized financial systems challenges traditional monetary governance. The UDMR provides a framework for integrating these new systems with established financial norms, promoting a balanced and inclusive financial landscape.
+3. **Promoting human-centered economics**: By focusing on the human function of payment and economic participation, the UDMR shifts the narrative from money as a tool of control to money as a medium of expression and a facilitator of social justice and sustainability.
 
 ## Installation
 
@@ -38,9 +38,9 @@ pip install -r requirements.txt
 
 This repository provides several tools and resources to implement and evaluate the UDMR principles:
 
-- **Axiomatic Implementation Guide**: Detailed instructions on how to incorporate UDMR axioms into monetary systems and financial instruments.
-- **Performance Evaluation Tools**: Scripts and models for assessing the compliance of digital currencies with UDMR principles.
-- **Case Studies and Examples**: Real-world applications demonstrating the benefits of aligning currencies with the UDMR framework.
+- **Axiomatic implementation guide**: Detailed instructions on how to incorporate UDMR axioms into monetary systems and financial instruments.
+- **Performance evaluation tools**: Scripts and models for assessing the compliance of digital currencies with UDMR principles.
+- **Case studies and examples**: Real-world applications demonstrating the benefits of aligning currencies with the UDMR framework.
 
 To run a sample analysis, use the following command:
 
