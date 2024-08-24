@@ -3,7 +3,9 @@
 
 **Version 1-A** | Released 18 hours ago by **Oli-Roc**
 
-Welcome to the Universal Declaration of Monetary Rights (UDMR) project! This repository is dedicated to promoting the implementation of axioms from the UDMR into global currencies and financial instruments, ensuring that they align with the principles of Social Choice Theory and the evolving digital economy. Our goal is to foster a new era of financial governance that is democratic, inclusive, and rooted in fundamental human rights.
+Welcome to the Universal Declaration of Monetary Rights (UDMR) project! 
+
+This repository is dedicated to promoting the implementation of axioms from the UDMR into global currencies and financial instruments, ensuring that they align with the principles of Social Choice Theory and the evolving digital economy. Our goal is to foster a new era of financial governance that is democratic, inclusive, and rooted in fundamental human rights.
 
 ## Project Overview
 
